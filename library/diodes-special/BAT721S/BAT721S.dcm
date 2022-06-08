@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT721S
+D Dual series Schottky Barrier diodes. SOT-23NEX
+K schottky, dual, diode, barrier
+$ENDCMP
+#
+#End Doc Library
