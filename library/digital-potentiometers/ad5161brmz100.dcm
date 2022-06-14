@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD5161BRMZ100
+D Digital Potentiometer 100kOhm, 8-bit, SPI or I2C interface, TSSOP-10, SMD
+K digital, potentiometer, ADI, analog devices, digipot
+$ENDCMP
+#
 #End Doc Library
