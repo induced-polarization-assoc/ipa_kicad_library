@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV172IDR
+D General Purpose bipolar operational amplfier.
+K TLV, TI, Op Amp, Operational, Amplifier, Bipolar
+$ENDCMP
+#
+#End Doc Library
